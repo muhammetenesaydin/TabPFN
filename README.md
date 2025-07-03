@@ -30,7 +30,30 @@ Bu projede, TABPFN modeli ile birlikte RandomForest, XGBoost ve LightGBM modelle
 
 Python 3.8 ve üzeri sürümlerde çalışmaktadır.
 
+
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+tabpfn
+
+
 Gerekli paketleri yüklemek için:
 
-```bash
+
 pip install -r requirements.txt
+
+
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+tabpfn
+
+
+python compare_models.py
+
+
+
