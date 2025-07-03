@@ -30,11 +30,11 @@ Python 3.8 ve üzeri sürümlerde çalışmaktadır.
 
 ---
 Gerekli paketleri yüklemek için:
-pip install -r requirements.txt
+```pip install -r requirements.txt
 
 ---
 Çalıştırmak için:
-python compare_models.py
+```python compare_models.py
 
 
 
