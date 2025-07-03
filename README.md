@@ -11,10 +11,9 @@ Bu proje, tabular (tablo) veri sınıflandırma problemlerinde farklı modelleri
 - [Proje Hakkında](#proje-hakkında)  
 - [Kurulum](#kurulum)  
 - [Kullanım](#kullanım)  
-- [Modeller](#modeller)  
 - [Sonuçlar](#sonuçlar)  
 - [Kaynaklar](#kaynaklar)  
-- [Lisans](#lisans)
+
 
 ---
 
@@ -34,9 +33,20 @@ Gerekli paketleri yüklemek için:
 ```pip install -r requirements.txt```
 
 ---
+## Kullanım
 Çalıştırmak için:
 
-```python compare_models.py```
+```basic_example.py```
+
+## Modeller 
+
+## Sonuçlar 
+![image](https://github.com/user-attachments/assets/9cbe7243-c756-4d93-b960-1239aec41d3d)
+![image](https://github.com/user-attachments/assets/db4c0803-1648-48fc-aa70-150808443bd2)
+## Kaynaklar 
+🔗 Resmi GitHub Reposu: https://github.com/PriorLabs/TabPFN
+
+🔗 TabPFN Makalesi: https://arxiv.org/abs/2207.01848
 
 
 
