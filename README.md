@@ -24,35 +24,16 @@ TABPFN (Transformer-based Probabilistic Fully-connected Network), tabular veri i
 
 Bu projede, TABPFN modeli ile birlikte RandomForest, XGBoost ve LightGBM modellerinin aynı veri seti üzerinde performansları karşılaştırılmıştır.
 
----
 
 ## Kurulum
-
 Python 3.8 ve üzeri sürümlerde çalışmaktadır.
 
-
-numpy
-pandas
-scikit-learn
-xgboost
-lightgbm
-tabpfn
-
-
+---
 Gerekli paketleri yüklemek için:
-
-
 pip install -r requirements.txt
 
-
-numpy
-pandas
-scikit-learn
-xgboost
-lightgbm
-tabpfn
-
-
+---
+Çalıştırmak için:
 python compare_models.py
 
 
